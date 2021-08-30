@@ -1,0 +1,29 @@
+#m{
+    background-color: palevioletred;
+    font-family:cursive;
+}
+
+body{
+    text-align: center;
+    background-color: gradient(rebeccapurple 50%, palevioletred 50%);
+}
+
+.pics{
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+
+.img{
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+h1{
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
